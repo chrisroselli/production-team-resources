@@ -47,7 +47,8 @@ div#app:empty::before{
   z-index: 999999;
 }
 .search {
-  margin-top: 30px;
+  margin-top: 10px;
+  margin-bottom: 0px !important;
   border-bottom: 0px solid #eee !important;
 }
 .search h2 {
@@ -70,7 +71,9 @@ div#app:empty::before{
   font-style: normal;
   font-weight: 700;
 }
-
+.search input {
+  border-radius: 5px;
+}
 html, body{
   height: 100%;
 }
@@ -229,9 +232,9 @@ li input[type=checkbox]{
 }
 
 .github-corner svg{
-  color: #3f3f3f;
-  fill: #ea6f5a;
-  fill: var(--theme-color, #ea6f5a);
+  color: #fff;
+  fill: #548830;
+  fill: var(--theme-color, #548830);
   height: 80px;
   width: 80px;
 }
@@ -258,7 +261,7 @@ main{
 }
 
 .anchor span{
-  color: #c8c8c8;
+  color: #fff;
 }
 
 .anchor:hover{
@@ -294,7 +297,6 @@ main{
 .sidebar > h1 a{
   color: #fff;
   text-decoration: none;
-  font-weight: bold;
 }
 
 .sidebar > h1 .app-nav{
@@ -362,6 +364,7 @@ main{
   width: 30px;
   width: 300px;
   z-index: 30;
+  bottom: 0;
 }
 
 .sidebar-toggle .sidebar-toggle-button:hover{
@@ -413,7 +416,7 @@ body.sticky .sidebar, body.sticky .sidebar-toggle{
 
 .markdown-section hr{
   border: none;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #929292;
   margin: 2em 0;
 }
 
@@ -686,8 +689,8 @@ section.cover ul{
   padding: 0;
 }
 section.cover .cover-main > p:last-child a{
-  border-color: #ea6f5a;
-  border-color: var(--theme-color, #ea6f5a);
+  border-color: #473f3d;
+  border-color: var(--theme-color, #473f3d);
   border-radius: 2rem;
   border-style: solid;
   border-width: 1px;
@@ -707,8 +710,8 @@ section.cover .cover-main > p:last-child a{
   transition: all 0.15s ease;
 }
 section.cover .cover-main > p:last-child a:last-child{
-  background-color: #ea6f5a;
-  background-color: var(--theme-color, #ea6f5a);
+  background-color: #473f3d;
+  background-color: var(--theme-color, #473f3d);
   color: #fff;
   margin-right: 0;
 }
@@ -751,7 +754,7 @@ body {
   color: #c8c8c8;
 }
 .sidebar li {
-  margin: 6px 15px;
+  margin: 5px 20px;
 }
 .sidebar ul li a {
   color: #fff;
