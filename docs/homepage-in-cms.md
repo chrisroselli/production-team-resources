@@ -1,4 +1,5 @@
-## Building a Spruce Homepage in the CMS for a brand new site:
+# Homepage in CMS
+## Spruce HP in CMS for new site
 
 1. Generate your borders.php and template.css using the Spruce Generator
 2. Use the Copy Tool to duplicate the `Home` page from devtest11 into your site.
@@ -13,7 +14,7 @@
 
 
 
-## Building a Spruce Homepage in the CMS for an existing site:
+## Spruce HP in CMS for existing site
 
 1. Generate your borders.php and template.css using the Spruce Generator
 2. Use the Copy Tool to duplicate the `Home 2` page from devtest11 into your site.
@@ -35,7 +36,7 @@
 
 
 
-## Building a Homepage in the CMS for a new site in the OAK TEMPLATE:
+## Oak HP in CMS for new site
 1. Use the Copy Tool to duplicate the `Home` page from devtest5 into your site.
     http://www.bsiadmin.com/portal/utility/cms_copy.php?dothis=confirmed
     - Select source "New Site" then from dropdown to copy content FROM, choose devtest5
@@ -46,7 +47,7 @@
     
     
     
-## Building a Homepage in the CMS for a new site in the DOGWOOD TEMPLATE:
+## Dogwood HP in CMS for new site
 1. Use the Copy Tool to duplicate the `Home` page from devtest19 into your site.
     http://www.bsiadmin.com/portal/utility/cms_copy.php?dothis=confirmed
     - Select source "New Site" then from dropdown to copy content FROM, choose devtest19
@@ -57,7 +58,7 @@
     
     
 
-## Building a Homepage in the CMS for a new site in the DOGWOOD LITE TEMPLATE:
+## Dogwood Lite HP in CMS for new site
 1. Use the Copy Tool to duplicate the `Home` page from devtest2 into your site.
     http://www.bsiadmin.com/portal/utility/cms_copy.php?dothis=confirmed
     - Select source "New Site" then from dropdown to copy content FROM, choose devtest2

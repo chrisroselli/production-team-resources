@@ -754,11 +754,11 @@ body {
   color: #c8c8c8;
 }
 .sidebar li {
-  margin: 5px 20px;
+  margin: 10px 20px;
 }
 .sidebar ul li a {
   color: #fff;
-  font-size: 16px;
+  font-size: 17px;
   overflow: hidden;
   text-decoration: none;
   text-overflow: ellipsis;
