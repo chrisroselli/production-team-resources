@@ -1,6 +1,9 @@
+# Site Templates
+[Template Guide](http://devtest11.basementsite.com/demo/style-guide/new-template-guide.html)
+***
 ## Add Territory to BS Site Header Above Phone
 ### For Willow Template
-#### Example: http://connecticutbasementsystems.com?dev_template=1&variationid=522
+Example: http://connecticutbasementsystems.com?dev_template=1&variationid=522
 
 1.) Add CSS to Header Section in Template CSS
 ```css
