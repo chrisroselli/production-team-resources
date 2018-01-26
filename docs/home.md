@@ -25,7 +25,7 @@ In fact, it is gleefully encouraged!
   - It is only ask if you would like to remove content, first please [Submit an Issue](https://github.com/chrisroselli/production-team-resources/issues)  
   - That way the team as a whole can verify that the content in question is no longer of any use or is erroneous
 
-**The Magic**
+### The Magic
  - This appication's content updates automatically once you submit changes in GitHub
 
 ### Learn Markdown
