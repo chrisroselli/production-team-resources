@@ -1,4 +1,4 @@
-# Site Building Introduction
+# <i class="far fa-lightbulb"></i></i> Introduction
 ***
 So You Think You Can Build a New Site HUH?
 

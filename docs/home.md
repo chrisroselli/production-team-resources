@@ -1,4 +1,4 @@
-# PRODUCTION TEAM RESOURCES
+# <i class="fas fa-cog fa-spin fa-sm"></i> PRODUCTION TEAM RESOURCES 
 ***
 ### Welcome to the Production Team Resources <small>(formally front-end guidelines) </small> {docsify-ignore}  
 Here you will find a leaner, meaner, library of all our resources. :clap:  
@@ -31,4 +31,5 @@ In fact, it is gleefully encouraged!
 ### Learn Markdown
 https://www.markdownguide.org/  
 https://dillinger.io/
+
 
