@@ -1,10 +1,12 @@
 - Build
   - [Intro](site-build.md)
+  - [Site Checklist](site-checklist.md)
   - [Widget Guide](widget.md)
   - [Google Analytics](google-analytics.md)
   - [Backups/Redirects](backup-redirecting.md)
   - [Tools](external-tools.md)
   - [Homepage in CMS](homepage-in-cms.md)
+  - [Performance](performance.md)
 - Design
   - [Site Templates](site-templates.md)
   - [Main Messages](main-messages.md)
@@ -20,11 +22,12 @@
   - [PHP Snippets](php-code-snippets.md)
   - [JS/Jquery Snippets](js-code-snippets.md)
 - Forms 
-  - [Direct to Dealer](form-dealer-direct.md)
-  - [Direct to Portal](form-portal.md)
+  - [Submit to Dealer](form-dealer-direct.md)
+  - [Submit to Portal](form-portal.md)
 
 - Misc
   - [Cgo](cgo.md) 
+  - [HTTPS Converter](https converter.md)
   - [BBB Seal Code](bbb-seal-code.md)
   - [Owens Corning](owens-corning.md)
 - Future

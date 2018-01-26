@@ -1,6 +1,8 @@
 # Direct to Portal
+Additional form variations can be found [here](https://github.com/bs-production/front-end-guidelines/tree/master/forms)  
+***
 For your form you need to name your inputs `"f_l_"`, any form inputs should be named accordingly.  
-Additional examples can be found [here](https://github.com/bs-production/front-end-guidelines/tree/master/forms)
+
 
 ``` php
   <link href="https://cdnjs.cloudflare.com/ajax/libs/air-datepicker/2.2.3/css/datepicker.min.css" rel="stylesheet" type="text/css">
