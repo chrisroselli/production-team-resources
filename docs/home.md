@@ -1,13 +1,13 @@
 # PRODUCTION TEAM RESOURCES
 ***
-### Welcome to Production Resources <small>(formally front-end guidelines) </small> {docsify-ignore}  
+### Welcome to the Production Team Resources <small>(formally front-end guidelines) </small> {docsify-ignore}  
 Here you will find a leaner, meaner, library of all our resources. :clap:  
 You can still find front-end-guidelines [here](https://github.com/bs-production/front-end-guidelines)
 
 > ## Open Source Policy 
 
 This resource center has been designed to be openly editable by all members of the team.  
-In fact, it is gleefully encourged!
+In fact, it is gleefully encouraged!
 
 ### Contribution
 
@@ -23,7 +23,7 @@ In fact, it is gleefully encourged!
 
 **Removing content** 
   - It is only ask if you would like to remove content, first please [Submit an Issue](https://github.com/chrisroselli/production-team-resources/issues)  
-  - That way the team as a whole can verify that the content in question is no longer of any use or erroneous
+  - That way the team as a whole can verify that the content in question is no longer of any use or is erroneous
 
 ### Learn Markdown
 https://www.markdownguide.org/  
