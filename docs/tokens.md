@@ -1,5 +1,6 @@
 # Tokens
-
+***
+### General 
 
 `[[logo]]` - Pulls whatever logo is in Logo Management in Portal
 
@@ -9,7 +10,7 @@
 
 `[[horizontal_des_counter]]`
 
-## Footer 
+### Footer 
 
 `[[display_addresses]]` - Shows all address in portal
 
@@ -24,7 +25,7 @@
 [company] is an independent contractor and is not an affiliate of Owens Corning Roofing and Asphalt, LLC or its affiliated companies. THE PINK PANTHER&trade; &amp; &copy; 1964–2015 Metro-Goldwyn-Mayer Studios Inc. All Rights Reserved.
 ```
 
-## Core V3 
+### Core V3 
 `[[custom_core_v3]]`
 
 #### Output 
@@ -55,7 +56,7 @@
 ```
 
 ***
-
+### Core V3 JS
 `[[custom_core_v3_js]]`
 
 #### Output 

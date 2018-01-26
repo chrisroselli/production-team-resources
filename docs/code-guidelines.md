@@ -1,12 +1,15 @@
 # Code Guidelines
-
+***
 Best practices and guidelines for writing HTML and CSS with approachable formatting, syntax, and more.
 
-- All code has to be lowercase: This applies to HTML element names, attributes, attribute values, CSS selectors, properties, and property values.
-- Paragraphs of text should always be placed in a <p> tag. Never use multiple <br> tags.
-- Items in list form should always be in ul, ol or dl. Never use a set of div or p.
+All code needs to be lowercase.
 
-## HTML Guidelines 
+This applies to HTML elements:
+- names, attributes, attribute values, CSS selectors, properties, and property values.
+- Paragraphs of text should always be placed in a `<p>` tag. Never use multiple `<br>` tags.
+- Items in list form should always be in `ul`, `ol` or `dl`. Never use a set of `div` or `p`.
+
+### HTML Guidelines 
 
 ```html
     <!--Bad News-->
@@ -17,7 +20,7 @@ Best practices and guidelines for writing HTML and CSS with approachable formatt
     <div class="breakout box-space"></div>
 ```
 
-## CSS Guidelines
+### CSS Guidelines
 
 ```css 
 
@@ -32,18 +35,18 @@ Best practices and guidelines for writing HTML and CSS with approachable formatt
     }
 ```
 
-## JS Guidelines 
+### JS Guidelines 
 
-We have a whole section dedicated to +Javascript 
+We have a whole section dedicated to Javascript 
 ```js
     <script>
     //Always comment your JS because it might end up in strange places
     </script>
 ```
 
-## Helper Classes
+### Helper Classes
 
-All of our sites come with these helper classes.
+All of our sites come with these helper classes
 
 ```css
     .left {

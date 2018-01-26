@@ -1,4 +1,6 @@
-## Direct Traffic 
+# PHP Snippets
+***
+### Direct Traffic 
 
 ```php
 <?php global $isTrafficDirect;
@@ -7,7 +9,7 @@ if($isTrafficDirect) {  ?>
  <?php } ?>
 ```
 
-## Swap By Month
+### Swap By Month
 
 ```php
 <?php
@@ -22,7 +24,7 @@ Stuff
 ```
 
 
-### certain dates each year
+### Certain dates each year
 
 ```php
   <?php
@@ -44,7 +46,7 @@ Stuff
             
 ```
 
-## Display Open Sign by setting Time Zone, Hours & Weekdays
+### Display Open Sign by setting Time Zone, Hours & Weekdays
 
 ```php
 <?php
@@ -66,7 +68,7 @@ Stuff
 <?php  }  ?>
 ```
 
-## Global Variables
+### Global Variables
 ```txt
 $isCityPage  - Detect City Pages
 $isTrafficPpc  - Detech for PPC Traffic Only
@@ -75,7 +77,7 @@ $isInHouse - Hide From Building Traffic
 $isMobile - Use if you want to load something only on mobile or hide on mobile
 ```
 
-## URL Parameters
+### URL Parameters
 ```php
 /?force_source=ppc - force what a page would look like in ppc
 /?force_source=blended - force what a site would like blended
@@ -85,7 +87,7 @@ $isMobile - Use if you want to load something only on mobile or hide on mobile
 ```
 
 
-## Custom Tokens 
+### Custom Tokens 
 ```php
 
 <?php
@@ -112,7 +114,7 @@ $siteTokens["[[token_name_here]]"] = "Value"
 ```
 Then in portal you are going to add the label (e.g. crm_label) you want on the left hand column (in crm management) and the token [[token_name_here]] from above in the right hand column. This will get $_POST['crm_label'] = 'Value' sent to the url along with the other data.
  
-## Searched Keyword Slider
+### Searched Keyword Slider
 ```php
 <?php
         $slideMain = '<div class="main-slide slide1"><div class="row"><div class="columns main-text"><h2>Engineer-Quality Assessments</h2><h3>for All of Your Home\'s Structural Problems</h3><ul><li><a href="/foundation-repair.html">Foundation Repair</a></li><li><a href="/basement-waterproofing.html">Basement Waterproofing</a></li><li><a href="/crawl-space-repair.html">Crawl Space Repair</a></li></ul></div></div></div>';
@@ -144,8 +146,8 @@ Then in portal you are going to add the label (e.g. crm_label) you want on the l
       ?>
 ```
 
-## Misc
-### If top-level page and silo are not equal
+### Misc
+#### If top-level page and silo are not equal
 ```php
 if (!strstr($thePage,'service-area') and !strstr($thePage,'basement-finishing') and !strstr($thePage,'sunroom')) {
 }

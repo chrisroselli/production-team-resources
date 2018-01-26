@@ -1,4 +1,5 @@
 # Custom Forms
+***
 ### Remove "What Prompted" Dropdown from PPC Contact Form
 ```js
 <script>
@@ -11,9 +12,8 @@
 http://codepen.io/siwicki/live/zqyVdX
 
 
-For your form you need to name your inputs "form_logger_" , any form inputs should be named accordingly.
-
-For example, '<input name="form_logger_first_name" />' 
+For your form you need to prefix your `input` names with `form_logger_`  
+Example: `name="form_logger_input-name"`
 
 ```html
    <form action="" method="post">

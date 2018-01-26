@@ -1,4 +1,6 @@
-# Sample Testing Code
+# Testing
+***
+### Sample Testing Code
 ```php
     <?php
     displaytest(210);  // calls test and 193 = test id
@@ -11,7 +13,7 @@
 ```
 
 
-## Setting up New Templates 
+### Setting up New Templates 
 
 The below snippet should go into before borders. The customtemplateid should match whatever number your site has in the custom template editors. 
 

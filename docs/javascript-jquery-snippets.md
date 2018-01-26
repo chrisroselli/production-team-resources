@@ -1,5 +1,5 @@
 # Javascript & Jquery Snippets
-
+***
 #### Sticky Navbar
 
 Here's some code to create a Sticky Navbar.
@@ -27,3 +27,4 @@ Add CSS class to style sheet only.
     top: 0;
     }
 ```
+> ### More to come

@@ -1,7 +1,6 @@
-# HTTP to HTTPS:
-
-
-## NEW SYSTEM
+# HTTP to HTTPS
+***
+### New System
 
 Site Mangement in Portal has a checkbox.
 
@@ -12,9 +11,9 @@ http://bsiadmin.com/portal/cron/update_cms_css_ssl_urls.php?site_ids=1458
 ```
 
 
-## LEGACY
+### Legacy
 
-### Redirect 
+#### Redirect 
 
 Please use this when it is final site is in place. Check with John when the right time is. 
 

@@ -1,4 +1,5 @@
 # Owens Corning
+***
 The new logo (OC_logo_Spot_PMS186) can be found in the Graphics drive here:
 /graphics/*Working Files/Web Design/Library/01 Credibility/Owens Corning
  
@@ -17,7 +18,7 @@ https://youtu.be/D1juxPxRprc
 
 
 
-## Shingle Selector
+### Shingle Selector
 ```html
 <script  src="https://apis.owenscorning.com/client/widget.js" async></script>
 

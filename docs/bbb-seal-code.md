@@ -1,5 +1,7 @@
-# How to get code for BBB seal
+# BBB seal code
+***
 
+#### Follow steps to get code for BBB seal
 1. Google to find the bbb.org page for your dealer *(ex. Google 'BBB Adam Quenneville')*
 2. Once you've reached the dealer's 'BBB BUSINESS REVIEW' page, copy the company id at the end of the site's url 
 3. Visit <a href="http://www.bbb.org/online/business/dynamicseal.aspx" target="_blank">http://www.bbb.org/online/business/dynamicseal.aspx</a>

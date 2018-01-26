@@ -1,4 +1,5 @@
-# Back Ups
+# BackUps/Redirects
+***
 
 Mac - [Site Sucker](http://ricks-apps.com/osx/sitesucker/)
 
@@ -10,7 +11,7 @@ Please make sure the folder is domain.com
 
 
 
-## Wayback download 
+### Wayback download 
 
 If you need to grab something from wayback machine. This works really well 
 
@@ -21,7 +22,7 @@ wayback_machine_downloader http://brandywineexteriors.com --to 20150427070206 --
 ```
 
 ***
-# Site Rewrites 
+### Site Rewrites 
 
  /(.+) /  - Redirect Everything to the homepage 
 
@@ -35,7 +36,7 @@ wayback_machine_downloader http://brandywineexteriors.com --to 20150427070206 --
 
 ^/siding/$ /siding.html - Redirects exact match of string without affecting interior page URLs
 ***
-## PHP Status Codes
+### PHP Status Codes
 
 ```php
 <?php
@@ -59,5 +60,5 @@ The requested page is unavailable.
 ```
 
 
-## Payment Issue 
+### Payment Issue 
 No status code and just redirect to coming soon page. 

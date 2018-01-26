@@ -1,5 +1,6 @@
 # Templates
-
+***
+## Template dev sites
 ####  Wonderboom
 http://devtest152.basementsite.com/
 
@@ -19,9 +20,9 @@ http://devtest19.basementsite.com/
 #### Dogwood - Light  
 http://devtest2.basementsite.com/
 ***
-# Generators
+## Generator
 #### Spruce
-https://github.com/chrisroselli/spruce-template-generator
+https://sprucer.herokuapp.com/
 
-#### Oak
-https://github.com/chrisroselli/oak-template-generator
+<!-- #### Oak
+https://github.com/chrisroselli/oak-template-generator -->

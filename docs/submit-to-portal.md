@@ -1,8 +1,9 @@
-# Direct to Portal
-Additional form variations can be found [here](https://github.com/bs-production/front-end-guidelines/tree/master/forms)  
+# Submit to Portal
 ***
-For your form you need to name your inputs `"f_l_"`, any form inputs should be named accordingly.  
+Additional form variations can be found [here](https://github.com/bs-production/front-end-guidelines/tree/master/forms)
 
+For your form you need to prefix your `input` names with `form_logger_`  
+Example: `name="form_logger_input-name"`
 
 ``` php
   <link href="https://cdnjs.cloudflare.com/ajax/libs/air-datepicker/2.2.3/css/datepicker.min.css" rel="stylesheet" type="text/css">
@@ -54,7 +55,7 @@ $(document).ready(function(){
         $logger = new formLoggerApi();
         $logger->setSiteId($siteData['site.id']);
         $logger->setSessionId($siteDefineData['cms_tracking_sessions']['session.id']);
-        $logger->setFormId('f_l_');
+        $logger->setFormId('form_logger_');
         $logger->setFormName('');
         $logger->setcustomEmailSubject('');
         $logger->setNotificationEmailAddresses('');    
@@ -76,23 +77,23 @@ $(document).ready(function(){
     <form action="" method="post" id="contact_form">
         <div class="fname">
             <label for="First_Name">First Name: <span>*</span></label>
-            <input type="text" name="f_l_First_Name" maxlength="50" class="required" id="First_Name">
+            <input type="text" name="form_logger_First_Name" maxlength="50" class="required" id="First_Name">
         </div>
         <div class="lname">
             <label for="Last_Name">Last Name: <span>*</span></label>
-            <input type="text" name="f_l_Last_Name" maxlength="50" class="required" id="Last_Name">
+            <input type="text" name="form_logger_Last_Name" maxlength="50" class="required" id="Last_Name">
         </div>
         <div class="address">
             <label for="Street">Street: <span>*</span></label>
-            <input type="text" name="f_l_Street" maxlength="50" class="required" id="Street">
+            <input type="text" name="form_logger_Street" maxlength="50" class="required" id="Street">
         </div>
         <div class="city">
             <label for="City">City: <span>*</span></label>
-            <input type="text" name="f_l_City" maxlength="50" class="required" value="" id="City">
+            <input type="text" name="form_logger_City" maxlength="50" class="required" value="" id="City">
         </div>
         <div class="state">
             <label for="State">State: <span>*</span></label>
-            <select name="f_l_State" class="required" id="State">
+            <select name="form_logger_State" class="required" id="State">
                 <option value="" selected="selected">Please select...</option>
                 <option value="CT">Connecticut</option>
                 <option value="NY">New York</option>
@@ -100,15 +101,15 @@ $(document).ready(function(){
         </div>
         <div class="zip">
             <label for="Zip">Zip Code: <span>*</span></label>
-            <input type="text" name="f_l_Zip_Code" maxlength="10" class="required zipcode" value="" id="Zip">
+            <input type="text" name="form_logger_Zip_Code" maxlength="10" class="required zipcode" value="" id="Zip">
         </div>
         <div class="phone">
             <label for="Phone">Phone: <span>*</span></label>
-            <input type="text" name="f_l_Phone" maxlength="50" class="required phone" id="Phone">
+            <input type="text" name="form_logger_Phone" maxlength="50" class="required phone" id="Phone">
         </div>
         <div class="email">
             <label for="Email_Address">Email: <span>*</span></label>
-            <input type="text" name="f_l_Email_Address" maxlength="50" class="required email" id="Email_Address">
+            <input type="text" name="form_logger_Email_Address" maxlength="50" class="required email" id="Email_Address">
         </div>
 
         <div class="date-requested">
@@ -117,11 +118,11 @@ $(document).ready(function(){
             <div class="left small-6">
                 <label for="custom_field_3">Preferred Appointment:<span class="date-required">*</span></label>
                 <div>
-                  <input type="text"  id="datepicker" name="f_l_Preferred_Appointment_Date_1" maxlength="50" class="required" value="Select Date">
+                  <input type="text"  id="datepicker" name="form_logger_Preferred_Appointment_Date_1" maxlength="50" class="required" value="Select Date">
                 </div>          
             </div>
             <div class="small-6" style="display: inline;">
-                <select name="f_l_Preferred_Appointment_Time_1" class="required" id="time1" style="margin-top:17px; width: 140px;">
+                <select name="form_logger_Preferred_Appointment_Time_1" class="required" id="time1" style="margin-top:17px; width: 140px;">
                     <option value="">Arrival Window</option>
                     <option value="9am-1pm">9am-1pm</option>
                     <option value="1pm-5pm">1pm-5pm</option>
@@ -132,12 +133,12 @@ $(document).ready(function(){
         <div class="date-requested">
                 <div class="left small-6">
                 <div>
-                  <input type="text"  id="datepicker2" name="f_l_Preferred_Appointment_Date_2" maxlength="50" class="required" value="Select Date">
+                  <input type="text"  id="datepicker2" name="form_logger_Preferred_Appointment_Date_2" maxlength="50" class="required" value="Select Date">
                 </div>          
             </div>
 
             <div class="small-6" style="display: inline;">
-                <select name="f_l_Preferred_Appointment_Time_2" class="required" id="time1" style="margin-top:17px; width: 140px;">
+                <select name="form_logger_Preferred_Appointment_Time_2" class="required" id="time1" style="margin-top:17px; width: 140px;">
                     <option value="">Arrival Window</option>
                     <option value="9am-1pm">9am-1pm</option>
                     <option value="1pm-5pm">1pm-5pm</option>
@@ -148,11 +149,11 @@ $(document).ready(function(){
         <div class="date-requested">
             <div class="left small-6">
                 <div>
-                  <input type="text"  id="datepicker3" name="f_l_Preferred_Appointment_Date_3" maxlength="50" class="required" value="Select Date">
+                  <input type="text"  id="datepicker3" name="form_logger_Preferred_Appointment_Date_3" maxlength="50" class="required" value="Select Date">
                 </div>          
             </div>
             <div class="small-6" style="display: inline;">
-                <select name="f_l_Preferred_Appointment_Time_3" class="required" id="time1" style="margin-top:17px; width: 140px;">
+                <select name="form_logger_Preferred_Appointment_Time_3" class="required" id="time1" style="margin-top:17px; width: 140px;">
                     <option value="">Arrival Window</option>
                     <option value="9am-1pm">9am-1pm</option>
                     <option value="1pm-5pm">1pm-5pm</option>
@@ -162,7 +163,7 @@ $(document).ready(function(){
         </div>
         <div class="comment">
             <label for="Message">Comments:</label>
-            <textarea value="Comments:" name="f_l_Message" id="Message"></textarea>
+            <textarea value="Comments:" name="form_logger_Message" id="Message"></textarea>
         </div>
         <div class="g-recaptcha" data-sitekey="6LeDRjQUAAAAAFnMLuC2cA_aajyhPOdnahHiS5Zt"></div>
         <div class="submit">

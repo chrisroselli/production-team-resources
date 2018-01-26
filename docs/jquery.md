@@ -1,10 +1,8 @@
-# Javascript
-
-## jQuery 
-
+# jQuery 
+***
 All of our sites include jQuery by default.  
 
-## jQuery UI 
+### jQuery UI 
 
 https://jqueryui.com/
 All of our sites include jQuery UI by default. We load in jQuery UI 1.8.6. There two CSS files loaded for jQuery UI. We have loaded in some of our own themes for the widgets and other goodies that we load in. 
@@ -17,11 +15,11 @@ In the site settings in the CMS we have an option for tabs. Depending on which o
     <link rel="stylesheet" type="text/css" href="/core/v2/jquery-ui-default.css" />
 
 
-## jQuery Plugins 
+### jQuery Plugins 
 
 If you are using a jQuery plugin. Please load the external script below the [core] tag so it loads after our version of jQuery.  If you can download the script and upload it into the file manager. You can also use a CDN such as https://cdnjs.com/
 
-## Inline-JS 
+### Inline-JS 
 
 If you want to inline a script in the CMS please use a custom code module on the page. This will allow people to be able to switch back and forth between wysiwg and code view easily.  If you inline JS in a page please make sure to comment the code so we know why you did something. Below is an example with a comment.
 
@@ -34,14 +32,12 @@ If you want to inline a script in the CMS please use a custom code module on the
     </script>
 
 
-## Javascript Components Library
-Sliders 
+### Javascript Components Library
+#### Sliders 
+Example: http://www.gsmsince1927.com/
 
-Example Site: http://www.gsmsince1927.com/
-
-Fade In/Out Images 
-
-Example Site: http://www.carolinaenergyconservation.com/solatube-daylighting-systems/solatube-daylighting-products.html
+#### Fade In/Out Images 
+Example: http://www.carolinaenergyconservation.com/solatube-daylighting-systems/solatube-daylighting-products.html
 
     <script>
     function slideLoop(){

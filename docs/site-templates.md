@@ -1,35 +1,9 @@
 # Site Templates
-[Template Guide](http://devtest11.basementsite.com/demo/style-guide/new-template-guide.html)
 ***
-## Add Territory to BS Site Header Above Phone
-### For Willow Template
-Example: http://connecticutbasementsystems.com?dev_template=1&variationid=522
+### [Template Guide](http://devtest11.basementsite.com/demo/style-guide/new-template-guide.html)
 
-1.) Add CSS to Header Section in Template CSS
-```css
-p.header-service-area {
-    margin-bottom: 10px;
-    color: grey;
-}
-p.header-service-area.show-for-medium-down {
-    text-align: center;
-    margin: 20px auto 0;
-}
-```
-
-2.) Add the following HTML to borders file:
-```html
-<!--For Medium Down: Place inside </div> of #logo -->
-<p class="header-service-area show-for-medium-down" onclick="location.href='/service-area.html';" style="cursor:pointer;">Serving [territory], [major cities 3]</p>
-
-<!--For Large Up: Place inside #phone before <a class="phone_link"> -->
-<p class="header-service-area show-for-large-up" onclick="location.href='/service-area.html';" style="cursor:pointer;">Serving [territory], [major cities 3]</p>
-
-```
-
-
-## Optional Affiliations Slider
-### Best used if dealer wants it or has a lot of affiliations
+### Optional Affiliations Slider
+#### Best used if dealer wants it or has a lot of affiliations
 #### Example: http://visionairewindows.com?dev_template=0&cache=0
 
 1.) Replace entire div#cred html with the following:
@@ -248,9 +222,9 @@ p.header-service-area.show-for-medium-down {
     color: #333;
 }
 ```
-
+***
 ## Optional Before & After Photo Comparison Slider
-### Best used for great roofing, siding, remodeling photos that showcase dramatic results.
+#### Best used for great roofing, siding, remodeling photos that showcase dramatic results.
 #### Example: http://devtest11.basementsite.com/demo/before-after-reveal.html?cache=0
 
 1.) Replace entire php snippet for Before & After with the following:
@@ -390,9 +364,9 @@ $(window).load(function() {
     }
 }
 ```
-
-## Alternate Homepage Services Layout
-### For any new template, follow these instructions to implement the alternate layout as seen on http://midwestbasementsystems.com, http://cowleys.com, http://quality1stbasementsystems.com?test=1
+***
+### Alternate Homepage Services Layout
+#### For any new template, follow these instructions to implement the alternate layout as seen on http://midwestbasementsystems.com, http://cowleys.com, http://quality1stbasementsystems.com?test=1
 
 1.) In borders file, paste the following HTML inside ```html <div class="container" id="services">```
 ```html
@@ -554,9 +528,9 @@ screen and (max-height: 736px){
     }
 }
 ```
-
-## New Alternate Service Area Layout
-### For any new template, follow these instructions to implement the alternate layout as seen on http://midwestbasementsystems.com or http://halcoenergy.com
+***
+### New Alternate Service Area Layout
+#### For any new template, follow these instructions to implement the alternate layout as seen on http://midwestbasementsystems.com or http://halcoenergy.com
 
 1.) In borders file, replace Service Area HTML with the following:
 ```html
@@ -731,7 +705,8 @@ screen and (max-height: 736px){
 }
 
 ```
-## Equalizer fix for long tabbed content
+***
+### Equalizer fix for long tabbed content
 ### If you've been told that tabbed or accordion content gets cut off update the template as follows:
 
 #### Oak Template (AFS Template)
@@ -1019,4 +994,30 @@ A little snippet to speed up building a Superwide Main Message. Customize classe
         border: 1px solid #000;
     }
     /* End Main Message */
+```
+***
+### Add Territory to BS Site Header Above Phone
+#### For Willow Template
+Example: http://connecticutbasementsystems.com?dev_template=1&variationid=522
+
+1.) Add CSS to Header Section in Template CSS
+```css
+p.header-service-area {
+    margin-bottom: 10px;
+    color: grey;
+}
+p.header-service-area.show-for-medium-down {
+    text-align: center;
+    margin: 20px auto 0;
+}
+```
+
+2.) Add the following HTML to borders file:
+```html
+<!--For Medium Down: Place inside </div> of #logo -->
+<p class="header-service-area show-for-medium-down" onclick="location.href='/service-area.html';" style="cursor:pointer;">Serving [territory], [major cities 3]</p>
+
+<!--For Large Up: Place inside #phone before <a class="phone_link"> -->
+<p class="header-service-area show-for-large-up" onclick="location.href='/service-area.html';" style="cursor:pointer;">Serving [territory], [major cities 3]</p>
+
 ```

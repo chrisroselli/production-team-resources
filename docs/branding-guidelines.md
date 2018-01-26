@@ -1,12 +1,10 @@
-# Design & Branding Guidelines
-
+# Branding Guidelines
+***
 The main message is the first impression of the site. It should include high quality imagery, clear messaging and call to action, and present the company as an industry expert/trusted professional.
 
-
-----------
 ## Main Message and Header Tips {docsify-ignore}
 
-## Overview
+### Overview
 - Keep designs clean and minimal. Create a cohesive design that is based on the company’s brand assets:
 
   - Logo
@@ -15,7 +13,7 @@ The main message is the first impression of the site. It should include high qua
   - Branded vehicles
   - Photos
 
-## 1. Color Scheme
+### 1. Color Scheme
   - Use color representative of the company's brand, 2 primary colors and one accent color used for callouts and phone#
   - Avoid overuse of bright, high saturation colors and use as accent colors instead
   - Check out some tools to help achieve the ideal color scheme:
@@ -25,7 +23,7 @@ The main message is the first impression of the site. It should include high qua
     - https://www.transparenttextures.com/
     - http://www.colorhexa.com/
 
-## 2. Images
+### 2. Images
   - Use high quality images that appropriately convey the company and services and compress the final .jpg or .png.
     - In Photoshop: always convert large, hi-res images, logos, or assets to ‘smart objects’ to preserve the original quality when revisions need to be made
     - In Photoshop: use layer masks to crop your images to preserve image data in case photos need to be cropped differently in the future
@@ -39,7 +37,7 @@ The main message is the first impression of the site. It should include high qua
     /graphics/*Working Files/Web Design/Library/01 Credibility/Owens Corning
 
 
-## 3. Messaging
+### 3. Messaging
   - Keep messaging concise and direct 
     - Company motto if applicable
     - Mention territory
@@ -53,7 +51,7 @@ The main message is the first impression of the site. It should include high qua
       “Full Service Roofing Expert - Serving Northern Minnesota - Family owned & operated since 1885"
 
 
-## 4. Typography
+### 4. Typography
   - Use appropriate, modern fonts that represent the style of company's brand
   - Incorporate varying font weights to establish text hierarchy
   - Use proper letter spacing and line height
@@ -67,7 +65,7 @@ The main message is the first impression of the site. It should include high qua
     - http://www.ucreative.com/articles/9-dos-and-donts-of-typography/
 
 
-## 5. Combining Text and Images
+### 5. Combining Text and Images
   - Use techniques to ensure legibility
   - Avoid clutter and use ample spacing between text and image borders
   - Ensure high contrast between text and background, with these techniques:
@@ -77,7 +75,7 @@ The main message is the first impression of the site. It should include high qua
       - Align text left, right, or center to achieve the best composition between image and text
 
 
-## 6. Animation
+### 6. Animation
   - Animating the elements of the main message can have a positive impact on users:
     - Keep animation simple and subtle such as fades & slides
     - Animate in logical groups, rather than animating each individual element
@@ -87,10 +85,7 @@ The main message is the first impression of the site. It should include high qua
       - http://us2.campaign-archive1.com/?u=6fbaddc8c1fce7588d1a35cb2&id=096fb65415&e=844cfd8b35 Basic Animation Tutorials
     
 
-----------
-
-Examples
-http://devtest11.basementsite.com/demo/style-guide/new-template-guide.html
+### 3rd Party examples
 
 - http://www.templatemonster.com/demo/48810.html
 - http://www.templatemonster.com/demo/48482.html

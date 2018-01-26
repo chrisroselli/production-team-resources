@@ -1,12 +1,12 @@
-# Performance and Optimization 
-
+# Performance
+***
 Example site: http://www.weathertitesystems.com/
 
-## Our Goals 
+## Our Goal 
 
 First meaningful paint under 1.25 seconds. 
 
-## Tools 
+### Tools 
 
 https://www.webpagetest.org/
 
@@ -40,7 +40,7 @@ http://www.responsivebreakpoints.com/
 https://jakearchibald.github.io/svgomg/
 
 
-# Accessibiity 
+### Accessibiity 
 
 If the image is decorative and does not convey any information to the surrounding content, however, you may leave this "alt" attribute empty, or specify a "role" attribute with a value of "presentation."
 
