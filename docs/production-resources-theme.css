@@ -781,8 +781,8 @@ body {
 
 /* markdown content found on pages */
 .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section strong {
-  color: #657b83;
-  font-weight: 600;
+  color: rgb(228, 228, 228);
+  font-weight: 900;
 }
 
 .markdown-section a {
@@ -838,6 +838,7 @@ body {
   line-height: 1.6rem;
   word-spacing: 0.8px;
   word-spacing: 0.05rem;
+  font-size: 16px;
 }
 
 .markdown-section ul, .markdown-section ol {
