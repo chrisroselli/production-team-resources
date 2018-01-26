@@ -1,5 +1,6 @@
 - Build
   - [Intro](site-build.md)
+  - [Templates](templates.md)
   - [Site Checklist](site-checklist.md)
   - [Widget Guide](widget.md)
   - [Google Analytics](google-analytics.md)
@@ -9,11 +10,14 @@
   - [Performance](performance.md)
 - Design
   - [Site Templates](site-templates.md)
+  - [Branding Guidelines](branding-guidelines.md)
   - [Main Messages](main-messages.md)
   - [Fonts](fonts.md)
   - [Think Daily](td-headers.md)
 - Code
   - [Code Guidelines](code-guidelines.md)
+  - [SuperNav](supernav.md)
+  - [Tokens](tokens.md)
   - [Javascript](javascript.md)
   - [Animation](animation.md)
   - [Custom Forms](custom-form.md)
@@ -31,8 +35,9 @@
   - [BBB Seal Code](bbb-seal-code.md)
   - [Owens Corning](owens-corning.md)
 - Future
-  - [Vue](vue.md)
   - [Automated Testing](auto-testing.md)
+  - [Vue](vue.md)
+  
 
   
   
