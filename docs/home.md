@@ -1,7 +1,7 @@
 # <i class="fas fa-cog fa-spin fa-sm"></i> PRODUCTION TEAM RESOURCES 
 ***
 ### Welcome to the Production Team Resources <small>(formally front-end guidelines) </small> {docsify-ignore}  
-Here you will find a leaner, meaner, library of all our resources. :clap:  
+Here you will find a leaner, meaner library of all our resources. :clap:  
 You can still find front-end-guidelines [here](https://github.com/bs-production/front-end-guidelines)
 
 > ## Open Source Policy 
