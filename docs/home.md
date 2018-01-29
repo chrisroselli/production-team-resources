@@ -16,7 +16,7 @@ In fact, it is gleefully encouraged!
 **Click on `docs`**  
 
 **Adding/Editing content**  
-  - Inside you will find the Markdown files that make up all the documentation  
+  - Inside `docs` you will find the Markdown files that make up all the documentation  
   - You have full permissions to edit any and all pages    
   - Add a new page `Create new file`  
   - Update an existing page (Click on page file, click on Pencil icon in right corner)  
