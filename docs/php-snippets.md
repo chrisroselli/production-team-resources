@@ -1,4 +1,4 @@
-# PHP Snippets
+# <i class="fab fa-php"></i> PHP Snippets
 ***
 ### Direct Traffic 
 

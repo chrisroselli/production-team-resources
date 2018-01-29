@@ -9,7 +9,7 @@
   - [Homepage in CMS](homepage-in-cms.md)
   - [Performance](performance.md)
 - Design
-  - [Site Templates](site-templates.md)
+  - [Template Assets](template-assets.md)
   - [Branding Guidelines](branding-guidelines.md)
   - [Main Messages](main-messages.md)
   - [Fonts](fonts.md)
@@ -21,7 +21,7 @@
   - [Animation](animation.md)
   - [Media Files](media-files.md)
   - [Testing](testing.md)
-  - [HTTPS Converter](https-converter.md)
+  - [http-to-https](http-to-https.md)
   - [PHP Snippets](php-snippets.md)
   - [JS/Jquery Snippets](javascript-jquery-snippets.md)
 - Forms 

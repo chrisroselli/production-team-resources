@@ -1,4 +1,4 @@
-# Performance
+# <i class="fas fa-tachometer-alt"></i> Performance
 ***
 Example site: http://www.weathertitesystems.com/
 

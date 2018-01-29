@@ -11,7 +11,7 @@ In fact, it is gleefully encouraged!
 
 ### Contribution
 
-**Click on the :octocat: in the top-right corner of the page to bring you to the GitHub repository**  
+**Click on the <i class="fab fa-github"></i> in the top-right corner of the page to bring you to the GitHub repository**  
 
 **Click on `docs`**  
 

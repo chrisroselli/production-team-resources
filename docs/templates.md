@@ -1,4 +1,4 @@
-# Templates
+# <i class="fas fa-cube"></i> Templates
 ***
 ## Template dev sites
 ####  Wonderboom

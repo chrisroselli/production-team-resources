@@ -1,4 +1,4 @@
-# Submit to Dealer
+# <i class="fas fa-align-left"></i> Submit to Dealer
 ***
 Additional form variations can be found [here](https://github.com/bs-production/front-end-guidelines/tree/master/forms)
 ``` php

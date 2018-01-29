@@ -1,4 +1,4 @@
-# Site Templates
+# <i class="fas fa-puzzle-piece"></i> Template Assets
 ***
 ### [Template Guide](http://devtest11.basementsite.com/demo/style-guide/new-template-guide.html)
 

@@ -1,4 +1,4 @@
-# Code Guidelines
+# <i class="fas fa-code"></i> Code Guidelines
 ***
 Best practices and guidelines for writing HTML and CSS with approachable formatting, syntax, and more.
 

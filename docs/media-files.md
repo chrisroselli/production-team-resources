@@ -1,4 +1,4 @@
-# Media Files
+# <i class="fas fa-video"></i> Media Files
 ***
 The audio and video html 5 tag has support from IE 9 and up and really good support on mobile. You can use these tags if we can’t use a third party to host the media like YouTube. 
 

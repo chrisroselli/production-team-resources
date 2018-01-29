@@ -1,4 +1,4 @@
-# Submit to Portal
+# <i class="fas fa-align-left"></i> Submit to Portal
 ***
 Additional form variations can be found [here](https://github.com/bs-production/front-end-guidelines/tree/master/forms)
 

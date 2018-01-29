@@ -1,4 +1,4 @@
-# SuperNav
+# <i class="far fa-compass"></i> SuperNav
 ***
 ### Mega Nav Link Columns
 

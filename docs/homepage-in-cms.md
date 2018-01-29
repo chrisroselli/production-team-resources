@@ -1,4 +1,4 @@
-# Homepage in CMS
+# <i class="fas fa-home"></i> Homepage in CMS
 ***
 ### Spruce HP in CMS for new site
 

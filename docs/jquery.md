@@ -1,4 +1,4 @@
-# jQuery 
+# <i class="fas fa-code"></i> jQuery 
 ***
 All of our sites include jQuery by default.  
 
@@ -15,7 +15,7 @@ In the site settings in the CMS we have an option for tabs. Depending on which o
     <link rel="stylesheet" type="text/css" href="/core/v2/jquery-ui-default.css" />
 
 
-### jQuery Plugins 
+### <i class="fas fa-code"></i> jQuery Plugins 
 
 If you are using a jQuery plugin. Please load the external script below the [core] tag so it loads after our version of jQuery.  If you can download the script and upload it into the file manager. You can also use a CDN such as https://cdnjs.com/
 

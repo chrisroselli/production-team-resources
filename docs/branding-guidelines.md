@@ -1,4 +1,4 @@
-# Branding Guidelines
+# <i class="fas fa-book"></i> Branding Guidelines
 ***
 The main message is the first impression of the site. It should include high quality imagery, clear messaging and call to action, and present the company as an industry expert/trusted professional.
 

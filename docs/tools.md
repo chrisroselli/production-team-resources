@@ -1,4 +1,4 @@
-# Tools
+# <i class="fas fa-wrench"></i> Tools
 ***
 ### General 
 [ViewDNS.info](http://viewdns.info/) - A list of a whole bunch of awesome DNS tools  
