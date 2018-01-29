@@ -30,6 +30,8 @@ In fact, it is gleefully encouraged!
 
 ### Learn Markdown
 https://www.markdownguide.org/  
-https://dillinger.io/
+https://dillinger.io/  
+***
 
+![stella](http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/stella.png)
 
