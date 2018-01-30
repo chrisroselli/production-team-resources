@@ -50,6 +50,7 @@ div#app:empty::before{
   margin-top: 10px;
   margin-bottom: 0px !important;
   border-bottom: 0px solid #eee !important;
+  z-index: 2;
 }
 .search h2 {
   color: #fff !important;
@@ -121,12 +122,11 @@ li input[type=checkbox]{
 /* navbar */
 
 .app-nav{
-  left: 0;
   margin: 15px 80px 0 0;
   position: absolute;
   right: 0;
   text-align: right;
-  z-index: 10;
+  z-index: 1;
 }
 
 .app-nav p{
