@@ -18,7 +18,8 @@ In fact, it is gleefully encouraged!
   - Inside `docs` you will find the Markdown files that make up all the documentation  
   - You have full permissions to edit any and all pages    
   - Add a new page `Create new file`  
-  - Update an existing page (Click on page file, click on Pencil icon in right corner)  
+  - Add Title of new page to `_navbar.md` under desired menu
+  - Update an existing page by clicking on the page file, then click on the Pencil icon in right corner 
 
 **Removing content** 
   - It is only ask if you would like to remove content, first please [Submit an Issue](https://github.com/chrisroselli/production-team-resources/issues)  

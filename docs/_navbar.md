@@ -1,7 +1,7 @@
 - Build
   - [Intro](intro.md)
   - [Templates](templates.md)
-  - [Site Checklist](site-checklist.md)
+  - [Checklist](checklist.md)
   - [Widget Guide](widget-guide.md)
   - [Google Analytics](google-analytics.md)
   - [Backups/Redirects](backups-redirects.md)
